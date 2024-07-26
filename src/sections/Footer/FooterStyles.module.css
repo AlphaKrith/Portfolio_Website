@@ -1,0 +1,10 @@
+.container{
+    text-align: center;
+    /* text-shadow: 5ch; */
+
+    p{
+        font-size: 18px;
+        font-style:oblique;
+        color: var(--footer-text-color);
+    }
+}
